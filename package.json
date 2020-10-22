@@ -1,0 +1,19 @@
+{
+  "name": "cheatcord",
+  "version": "1.0.0",
+  "description": "Cheatcord - a bot for helpful code commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toobiii/cheatcord.git"
+  },
+  "author": "Toobiii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toobiii/cheatcord/issues"
+  },
+  "homepage": "https://github.com/toobiii/cheatcord#readme"
+}
